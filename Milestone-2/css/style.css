@@ -1,0 +1,50 @@
+/* Common */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* Header */
+header {
+    background-color: #2e3a46;
+}
+
+header img {
+    height: 55px;
+    padding: 10px 20px;
+}
+
+/* Main */
+main {
+    background-color: #1e2d3b;
+}
+
+main .main-wrapper {
+    padding: 80px 120px;
+}
+
+/* Cards */
+main .card {
+    background-color: #2e3a46;
+    padding: 18px;
+    min-height: 370px;
+}
+
+.card-body {
+    color: #606c74;
+}
+
+.card-title {
+    text-transform: uppercase;
+    color: #ecf8ff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.card-text {
+    font-size: 18px;
+    margin-top: 20px;
+}
